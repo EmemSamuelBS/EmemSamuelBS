@@ -6,4 +6,4 @@
 ✍📕I write on data, finance and business strategy on my blog [https://medium.com/@ememsamuelbs].<br/>
 🎯currently learning about data analytics[https://www.netacad.com].<br/>
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmemSamuelBS)](https://github.com/EmemSamuelBS/github-readme-stats)
