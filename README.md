@@ -17,5 +17,5 @@
 <!-- https://ytcards.demolab.com/?id=<video ID>&title=<video+title>&lang=en&timestamp=<video publish date in Unix time format>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<video title>") -->
 <!-- BEGIN YOUTUBE-CARDS -->
 [![What is data analytics?- An Introduction (Guide)](https://ytcards.demolab.com/?id=yZvFH7B6gKI&title=What+is+data+analytics?-+An+Introduction+(Guide)&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "What is data analytics?- An Introduction (Guide)")](https://youtu.be/yZvFH7B6gKI?si=fcO6WL_CAlo6YxuJ)
-https://youtu.be/4VqpuW8xUL8?si=MX4NTDkLEQJ1baEE
+
 [![Data Analytics in Retail Companies](https://ytcards.demolab.com/?id=4VqpuW8xUL8&title=Data+Analytics+in+Retail+Companies)&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "Data Analytics in Retail Companies")](https://youtu.be/4VqpuW8xUL8?si=MX4NTDkLEQJ1baEE)
