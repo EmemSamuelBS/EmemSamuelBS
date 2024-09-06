@@ -6,4 +6,6 @@
 ✍📕I write on data, finance and business strategy on my blog [https://medium.com/@ememsamuelbs] [https://www.reddit.com/user/EmemSamuelBS/].<br/>
 🎯currently learning about data analytics[https://www.netacad.com].<br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmemSamuelBS)](https://github.com/EmemSamuelBS/github-readme-stats)
+
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+[![Magdeline's github stats](https://github-readme-stats.vercel.app/api?username=EmemmSamuelBS&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
