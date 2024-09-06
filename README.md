@@ -1,4 +1,4 @@
-
+<!-- level- simple introduction-->
 ### Hey there, I'm Emem 
 
 👌Data Analytics and Finance Specialist, sharing my insights and journey through this path.<br/>
@@ -7,8 +7,19 @@
 🎯currently learning about data analytics[https://www.netacad.com].<br/>
 
 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+<!--level2- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 [![Magdeline's github stats](https://github-readme-stats.vercel.app/api?username=EmemSamuelBS&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- level 3-badges -->
+# 💻 Work buddy 
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
+![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=red)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=green)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)
+![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
 
 # 💻 Featured YouTube Videos
 <!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
