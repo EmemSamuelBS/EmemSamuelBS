@@ -10,4 +10,5 @@
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 [![Magdeline's github stats](https://github-readme-stats.vercel.app/api?username=EmemSamuelBS&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Data analytics overview](https://youtu.be/yZvFH7B6gKI?si=KNg6eJbAdQOr-rqi)
+<--Video cards
+https://ytcards.demolab.com/?id=<[video ID](https://youtu.be/yZvFH7B6gKI?si=KNg6eJbAdQOr-rqi)>&what is data analytics?An Introduction(fullguide)=<video+title>&lang=en&timestamp=<video publish date in Unix time format>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<what is data analytics? An Introduction (fullguide)") 
