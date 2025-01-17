@@ -1,10 +1,10 @@
 <!-- level- simple introduction-->
 ### Hey there, I'm Emem 
 
-👌Data Analytics and Finance Specialist, sharing my insights and journey through this path.<br/>
+👌Data Analytics || Accounting || Finance Specialist, sharing my insights and journey through this path.<br/>
 😊I find every pace of this path fascinating.<br/>
 ✍📕I write on data, finance and business strategy on my blog [https://medium.com/@ememsamuelbs] [https://www.reddit.com/user/EmemSamuelBS/].<br/>
-🎯currently learning about data analytics[https://www.netacad.com].<br/>
+🎯 completed my data analytics journey with net academy [https://www.netacad.com].<br/>
 
 
 <!--level2- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
