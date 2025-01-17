@@ -1,11 +1,15 @@
 <!-- level- simple introduction-->
 ### Hey there, I'm Emem 
 
-👌Data Analytics || Accounting || Finance Specialist, sharing my insights and journey through this path.<br/>
+👌Data Analytics || Accounting || Finance, Specialist and remote worker; sharing my projects, development journey and insights through this path.<br/>
 😊I find every pace of this path fascinating.<br/>
+📊 I provide a wide range of services in data analystics, financial accounting and business strategies.<br/>
+💡 With apt expertise in financial analysis and interpretation, data analytics, financial modeling and data visualization.<br/>
 ✍📕I write on data, finance and business strategy on my blog [https://medium.com/@ememsamuelbs] [https://www.reddit.com/user/EmemSamuelBS/].<br/>
-🎯 completed my data analytics journey with net academy [https://www.netacad.com].<br/>
-
+🎯completed my data analytics journey with net academy [https://www.netacad.com].<br/>
+🎯1st class accounting graduate.<br/>
+🎯 looking further to grow in my knoweledge of big data analytics.<br/>
+😍It would be my most delight working with you on your next project.<br/> 
 
 <!--level2- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 [![Magdeline's github stats](https://github-readme-stats.vercel.app/api?username=EmemSamuelBS&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
